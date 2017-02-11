@@ -215,7 +215,7 @@ public class pilih extends javax.swing.JFrame {
         // TODO add your handling code here:
         z = JOptionPane.showConfirmDialog(null, "Anda ingin keluar?","Keluar",JOptionPane.YES_NO_OPTION,0);
         if (z==0){
-            JOptionPane.showMessageDialog(null,"Terimakasih telah menggunakan ATM BNI, ambil kartu ATM Anda");
+            JOptionPane.showMessageDialog(null,"Terimakasih telah menggunakan ATM NASIONAL, ambil kartu ATM Anda");
             System.exit(0);
         }
     }//GEN-LAST:event_keluarActionPerformed
